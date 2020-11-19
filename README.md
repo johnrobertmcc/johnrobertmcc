@@ -1,8 +1,8 @@
-### Hi there 👋I'm J.R.! 
+### Hi there 👋 I'm J.R.! 
 
 I am a software engineer with a background in archaeology, and currently looking for a full-time employment.
 
-I'm passionate about sustainability, animal rights, and clean codes.
+I'm passionate about sustainability, animal rights, and clean code.
 
 I'm skilled in React, Redux, Rails / Ruby, Javascript, node, Mongoose, SQL, MongoDB, CSS, HTML, and plenty more :)
 
