@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋I'm J.R.! 
 
-<!--
-**johnrobertmcc/johnrobertmcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer with a background in archaeology, and currently looking for a full-time employment.
 
-Here are some ideas to get you started:
+I'm passionate about sustainability, animal rights, and clean codes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm skilled in React, Redux, Rails / Ruby, Javascript, node, Mongoose, SQL, MongoDB, CSS, HTML, and plenty more :)
+
+Find me here:
+https://www.johnrobertmcc.com/
+https://www.linkedin.com/in/jrmcc/
+https://angel.co/u/john-robert-mccann
+https://www.instagram.com/john.robert.mcc/?hl=en
+
+And feel free to check out my repos below!
