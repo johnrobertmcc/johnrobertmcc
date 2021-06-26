@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm J.R.! 
 
-I am a software engineer with a background in archaeology, and currently looking for a full-time employment.
+I am a New York based software engineer with a love for React.js.
 
 I'm passionate about sustainability, animal enrichment, and clean code.
 
