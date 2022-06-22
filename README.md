@@ -4,6 +4,7 @@ New York based software engineer.
 
 Passionate about..
 - clean, documented code, 
+- Web3,
 - sustainability, 
 - animal enrichment
 - and plenty more of course
