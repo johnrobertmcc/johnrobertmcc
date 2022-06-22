@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm J.R.! 
 
-New York based software engineer with a love for all things JavaScript.
+New York based software engineer.
 
-Passionate about sustainability, animal enrichment, and clean, documented code.
-
-I'm skilled in React, Next, Vue, JavaScript, Node.js, Mongoose, SQL, MongoDB, CSS, HTML, Redux, Rails / Ruby, and plenty more.
+Passionate about..
+- clean, documented code, 
+- sustainability, 
+- animal enrichment
+- and plenty more of course
 
 Find me here:
 * https://www.johnrobertmcc.com/
